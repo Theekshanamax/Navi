@@ -19,7 +19,7 @@ global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
 //bot bomdy __________________________________________________________________
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න✏✒
-global.session = "ZTVYZmp0eWE=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.session = "RjlyUlZSOGM=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94713378049" //ur number
 global.premium = ['94713378049'] //ur premium number
 global.botname = 'Navi' //ur bot name
