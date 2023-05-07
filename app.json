@@ -2,7 +2,7 @@
   "name": "Navi",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Theekshanamax/Navi/tree/main",
-  "logo": "https://telegra.ph/file/3b403e1d0943bceda8133.jpg&name=900x900",
+  "logo": "https://telegra.ph/file/3b&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
