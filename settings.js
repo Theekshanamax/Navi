@@ -14,7 +14,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94713378049'] //ur owner number
 global.ownername = "theekshana" //ur owner name
 global.ytname = "HELA CLOUD" //ur yt chanel name
-global.socialm = "X TROID" //ur github or insta name
+global.socialm = "Navi" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
 //bot bomdy __________________________________________________________________
@@ -22,17 +22,17 @@ global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 global.session = "ZTVYZmp0eWE=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94713378049" //ur number
 global.premium = ['94713378049'] //ur premium number
-global.botname = 'X TROID' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
-global.botscript = 'https://github.com/yureshofficial/X-Troid' //script link
+global.botname = 'Navi' //ur bot name
+global.linkz = "https://chat.whatsapp.com/CPouaLYWGFiJGRuIa9hgbM" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/CPouaLYWGFiJGRuIa9hgbM" //ur website to be displayed
+global.botscript = 'https://github.com/Theekshanamax/Navi' //script link
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "X TROID" //ur sticker watermark packname
-global.author = "X TROID" //ur sticker watermark author
-global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
+global.packname = "Navi" //ur sticker watermark packname
+global.author = "Navi" //ur sticker watermark author
+global.wm = "Navi MULTE DEVICE WHATSAPP BOT" //ur watermark
 
 //Edit Text bot📂🚀__________________________________________________________________
-global.alive = "YURESH" //ur Alive mg type
+global.alive = "THEEKSHANA" //ur Alive mg type
 
 // Other
 global.sessionName = 'session'
